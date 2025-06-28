@@ -2,7 +2,7 @@
 
 Este projeto, yt‑spotify‑pipeline, é um pipeline completo de dados que coleta, processa e disponibiliza informações de tendências do YouTube e métricas do Spotify. Ideal para praticar todas as etapas de um fluxo de dados real: ingestão, transformação, modelagem e visualização.
 
---
+---
 
 ## 🚀 Visão Geral do Projeto
 
