@@ -26,10 +26,9 @@ yt-spotify-pipeline/
 ├─ requirements.txt      # Dependências Python
 ├─ data/
 │   ├─ raw/              # Dados brutos (.csv do Kaggle)
-│   └─ clean/            # Dados tratados (opcional)
 ├─ src/
 │   └─ main.py           # ETL Python
-├─ sql/
+├─ sql/                         # Tabelas Criadas
 │   ├─ 01_create_staging.sql
 │   ├─ 02_dim_artist.sql
 │   ├─ 03_dim_channel.sql
