@@ -1,0 +1,14 @@
+# Ignorar o venv
+.venv/
+__pycache__/
+*.pyc
+
+# Dados brutos e limpos
+data/raw/
+data/clean/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Outros
+.DS_Store
